@@ -3,7 +3,8 @@ As the name suggests, simple web is rather simple
 
 URL: http://dctf1-chall-simple-web.westeurope.azurecontainer.io:8080/
 
-![[Pasted image 20210516142842.png]]
+![Pasted image 20210516142842](https://user-images.githubusercontent.com/70921512/118423795-31b48680-b69c-11eb-8ca9-05e64c5f31b7.png)
+
 
 Submitting this returns
 `Not authorized`
