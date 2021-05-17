@@ -1,6 +1,6 @@
 # Company Leak
 
-![[Pasted image 20210516213709.png]]
+![Pasted image 20210516213709](https://user-images.githubusercontent.com/70921512/118423578-b5ba3e80-b69b-11eb-8779-b2369093d345.png)
 
 README:
 
