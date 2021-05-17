@@ -1,6 +1,6 @@
 # Very Secure Website
 
-![[Pasted image 20210516145338.png]]
+![Pasted image 20210516145338](https://user-images.githubusercontent.com/70921512/118423895-76402200-b69c-11eb-8335-9eba799a46a4.png)
 
 The source code provided was:
 ```
