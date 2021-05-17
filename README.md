@@ -18,7 +18,7 @@ and
 
 Funnily enough, the team was named (drumrolls please):
 
-![[Pasted image 20210516221658.png]]
+![](images/20210516221658.png)
 
 That gave me a good giggle...
 
