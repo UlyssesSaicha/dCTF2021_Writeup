@@ -2,7 +2,7 @@
 
 http://dctf1-chall-injection.westeurope.azurecontainer.io:8080/
 
-![[Pasted image 20210516170501.png]]
+![Pasted image 20210516170501](https://user-images.githubusercontent.com/70921512/118423622-d387a380-b69b-11eb-95e3-50008df586c3.png)
 
 There is an admin login with the parameters "User", "Password" and a hidden "Submit".
 
@@ -14,7 +14,7 @@ I really didn't know how to work this one out. I tried looking at the robots.txt
 
 Eventually, I figured the website was responding to anything that I was throwing at it through the 404 response page, even xss:
 
-![[Pasted image 20210516170833.png]]
+![Pasted image 20210516170833](https://user-images.githubusercontent.com/70921512/118423632-da161b00-b69b-11eb-9827-b4165a4be012.png)
 
 But eh, couldn't figure it out for a while. I initially thought it was SQLi, and was put off by it because I know barely any SQLi.
 
