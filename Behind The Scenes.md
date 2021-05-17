@@ -2,7 +2,7 @@
 
 So we are greeted with an image:
 
-![[Pasted image 20210516215938.png]]
+![Pasted image 20210516215938](https://user-images.githubusercontent.com/70921512/118423490-7c81ce80-b69b-11eb-8f15-a40b9475977f.png)
 
 Look at it long enough, and you will see in the background a virtual machine running linux, with the 'password' in notepad.
 
@@ -30,18 +30,18 @@ https://github.com/beurtschipper/Depix
 
 At first I was having some issues:
 
-![[unknown.png]]
+![unknown](https://user-images.githubusercontent.com/70921512/118423520-886d9080-b69b-11eb-8910-a3cf93db85ef.png)
 
 in that the outputted image was the same as the input.
 
-![[bts_cropped.png]]
+![bts_cropped](https://user-images.githubusercontent.com/70921512/118423538-93c0bc00-b69b-11eb-9357-3f9af6169083.png)
 
 Eventually, it boiled down to having to crop the image pixel perfect:
 
-![[btsxropped.png]]
+<img width="90" alt="btsxropped" src="https://user-images.githubusercontent.com/70921512/118423543-96231600-b69b-11eb-94e2-4721ed788df4.png">
 
 And we run it again to get a rough output:
 
-![[output.png]]
+![output](https://user-images.githubusercontent.com/70921512/118423548-9b806080-b69b-11eb-9da3-27364a531ac7.png)
 
 Which we can just figure out from context.
